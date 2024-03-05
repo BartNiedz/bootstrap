@@ -1,0 +1,26 @@
+nowe repozytorium github
+.net 8
+mvc
+stworzyc controler, które bedzie zwracac zapytanie do klienta
+pole imie adres email i przycisk wyslij
+formluarz
+utworzyc klase: imie, adres, email
+po nacisnieciu: http post
+
+
+rozbudować klase o nazwisko numer telefonu
+ekran ma sie dzieli c na dwie kolumny a na malych urzadzeniach (sm) ma wchodzić pod siebie
+-------------
+
+odworowac strone webepartners
+1.2.4. element
+
+zwrocic uwage na ilosc boxow aby dopasowac elementy na stronie
+zwrocic uwage na wartosci prefixow zeby odnosily sie do 12
+
+------------------------
+zrobić szarą ramkę na całą strone
+odstępy(marginesy) na bokach calej strony
+odstepy miedzy zdjeciami
+odstepy miedzy elementami 1.2.
+tekst po prawej stronie

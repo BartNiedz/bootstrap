@@ -1,0 +1,27 @@
+.moja{
+    border: 1px solid black;    
+    border-radius: 10px;
+
+    margin-bottom:5px;
+    background-color: rgb(85, 85, 85);  
+    
+}
+
+
+h1{
+    font-size: medium;
+}
+p{
+    font-size: small;
+}
+
+.mojpadding{
+    padding: 10px 20px 10px 20px;
+}
+
+.dane{
+    border: 0px;
+    border-radius: 2px; 
+    margin-bottom: 5px;
+    background-color: white;
+}
