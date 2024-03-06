@@ -1,9 +1,9 @@
 .moja{
-    border: 1px solid black;    
+        
     border-radius: 10px;
 
     margin-bottom:5px;
-    background-color: rgb(85, 85, 85);  
+    background-color: rgb(211, 210, 210);  
     
 }
 
@@ -24,4 +24,14 @@ p{
     border-radius: 2px; 
     margin-bottom: 5px;
     background-color: white;
+}
+
+.stopka{
+    background-color: white;
+}
+
+.band{
+    background-color: rgb(78, 95, 250);
+    color: aliceblue;
+    border: 10px;
 }

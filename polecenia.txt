@@ -20,7 +20,6 @@ zwrocic uwage na wartosci prefixow zeby odnosily sie do 12
 
 ------------------------
 zrobić szarą ramkę na całą strone
-odstępy(marginesy) na bokach calej strony
 odstepy miedzy zdjeciami
 odstepy miedzy elementami 1.2.
 tekst po prawej stronie
