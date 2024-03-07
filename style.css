@@ -2,9 +2,14 @@
         
     border-radius: 10px;
 
-    margin-bottom:5px;
-    background-color: rgb(211, 210, 210);  
+
+    background-color: white;  
+    margin-bottom:10px;
     
+}
+
+.tlo{
+    background-color: rgb(219, 219, 219);
 }
 
 
@@ -31,7 +36,18 @@ p{
 }
 
 .band{
-    background-color: rgb(78, 95, 250);
+    border-radius: 10px;
+    background-color: rgba(175, 139, 243, 0.397);
     color: aliceblue;
-    border: 10px;
+    
+    
+
+}
+
+.full-width{
+    width:100%;
+}
+.nc{
+    background-color: black;
+    color: antiquewhite;
 }
