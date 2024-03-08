@@ -7,12 +7,19 @@
     margin-bottom:10px;
     
 }
+.polecanetlo{
+    border-radius: 10px;    
+    background-color: rgb(199, 199, 199);
+    margin: 10px;
+}
 
 .tlo{
     background-color: rgb(219, 219, 219);
 }
 
-
+.bg-black{
+    background-color:#000;
+}
 h1{
     font-size: medium;
 }
@@ -50,4 +57,11 @@ p{
 .nc{
     background-color: black;
     color: antiquewhite;
+    
+}
+
+.blogramka{
+    border-radius: 5px;
+    background-color: white;
+    
 }
